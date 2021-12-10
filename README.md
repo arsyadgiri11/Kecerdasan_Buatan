@@ -1,9 +1,9 @@
 # Kecerdasan_Buatan
 1. Lidah Buaya
-   A. Apa itu Lidah Buaya ?
-   Lidah Buaya adalah tanaman serba guna yang sudah dikenal khasiatnya sejak berabad-abad lalu. Lidah buaya atau sering disebut dengan aloe vera, menghasilkan dua bahan, yaitu gel dan getah, yang biasanya digunakan dalam obat­-obatan.
-   B. Manfaat Lidah Buaya
-   Manfaat lidah buaya yang paling terkenal adalah sebagai pengobatan berbagai masalah kulit seperti luka bakar, terbakar matahari, frostbite, iritasi dan gatal pada kulit, serta psoriasis. Beberapa orang juga menggunakannya untuk mempercepat penyembuhan luka. Lidah buaya juga digunakan untuk mengatasi beberapa kondisi medis seperti:
+A. Apa itu Lidah Buaya ?
+Lidah Buaya adalah tanaman serba guna yang sudah dikenal khasiatnya sejak berabad-abad lalu. Lidah buaya atau sering disebut dengan aloe vera, menghasilkan dua bahan, yaitu gel dan getah, yang biasanya digunakan dalam obat­-obatan.
+B. Manfaat Lidah Buaya
+Manfaat lidah buaya yang paling terkenal adalah sebagai pengobatan berbagai masalah kulit seperti luka bakar, terbakar matahari, frostbite, iritasi dan gatal pada kulit, serta psoriasis. Beberapa orang juga menggunakannya untuk mempercepat penyembuhan luka. Lidah buaya juga digunakan untuk mengatasi beberapa kondisi medis seperti:
    a. Radang usus besar
    b. Demam
    c. Diabetes
