@@ -1,23 +1,20 @@
 # Kecerdasan_Buatan
 1. Lidah Buaya
-Apa itu Lidah Buaya ?
-Lidah Buaya adalah tanaman serba guna yang sudah dikenal khasiatnya sejak berabad-abad lalu. Lidah buaya atau sering disebut dengan aloe vera, menghasilkan dua bahan, yaitu gel dan getah, yang biasanya digunakan dalam obat­-obatan.
-
-Manfaat Lidah Buaya
-Manfaat lidah buaya yang paling terkenal adalah sebagai pengobatan berbagai masalah kulit seperti luka bakar, terbakar matahari, frostbite, iritasi dan gatal pada kulit, serta psoriasis. Beberapa orang juga menggunakannya untuk mempercepat penyembuhan luka. Lidah buaya juga digunakan untuk mengatasi beberapa kondisi medis seperti:
-
-a. Radang usus besar
-b. Demam
-c. Diabetes
-d. Asma
-e. Sembelit
-f. Flu
-Manfaat lidah buaya lainnya adalah untuk mengatasi terlambat haid, diabetes, gangguan penglihatan, serta masalah yang berhubungan dengan sendi dan tulang seperti bursitis, osteoarthritis dan multiple sclerosis.
+   A. Apa itu Lidah Buaya ?
+   Lidah Buaya adalah tanaman serba guna yang sudah dikenal khasiatnya sejak berabad-abad lalu. Lidah buaya atau sering disebut dengan aloe vera, menghasilkan dua bahan, yaitu gel dan getah, yang biasanya digunakan dalam obat­-obatan.
+   B. Manfaat Lidah Buaya
+   Manfaat lidah buaya yang paling terkenal adalah sebagai pengobatan berbagai masalah kulit seperti luka bakar, terbakar matahari, frostbite, iritasi dan gatal pada kulit, serta psoriasis. Beberapa orang juga menggunakannya untuk mempercepat penyembuhan luka. Lidah buaya juga digunakan untuk mengatasi beberapa kondisi medis seperti:
+   a. Radang usus besar
+   b. Demam
+   c. Diabetes
+   d. Asma
+   e. Sembelit
+   f. Flu
+   Manfaat lidah buaya lainnya adalah untuk mengatasi terlambat haid, diabetes, gangguan penglihatan, serta masalah yang berhubungan dengan sendi dan tulang seperti bursitis, osteoarthritis dan multiple sclerosis.
 
 2. Daun Sirih
 Apa itu Daun Sirih ?
 Daun sirih populer sebagai tanaman herbal yang bisa mengobati mimisan. Kaya akan kandungan senyawa aktif, daun sirih jadi obat herbal yang bisa menyembuhkan sejumlah penyakit. 
-
 Manfaat Daun Sirih
 a. Menghentikan pendarahan Daun sirih memiliki sifat styptic alias penahan pendarahan. Hal inilah yang membuat dayun sirih efektif untuk menghentikan pendarahan pada gusi berdarah dan juga seseorang yang mengalami mimisan.
 b. Obat batuk  Anda sedang menderita batuk? Daun sirih bisa jadi solusinya. Asal tahu saja, daun sirih mengandung senyawa aktif yang mampu mengentikan batuk.  Cara menggunakan daun sirih sebagai obat batuk adalah dengan di kumur-kumur. Anda bisa merebus daun sirih segar sampai mendidih. Saat air rebusan daun sirih sudah cukup hangat, Anda bisa gunakan untuk berkumur.  
